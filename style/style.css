@@ -184,3 +184,25 @@
 .cards {
   margin-top: 11px; 
 }
+
+.education-content{
+  padding:60px; 
+}
+
+.education-text {
+  font-weight: 700;
+  font-size: 34px;
+  color: #817eff;
+}
+
+.profile-row {      
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: center;  
+}
+
+.ng-binding {  
+  margin: auto 20px;
+}
