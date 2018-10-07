@@ -1,0 +1,48 @@
+.main-container {  
+  width: 1024px;
+  margin: 0 auto;  
+  background-color: #dff8f4;
+}
+
+.contact {
+  font-weight: 500;
+  line-height: 45px;
+}
+
+.header {
+  padding-top: 82px; 
+}
+
+.header-container {  
+  background-color: #e0dfe5;
+}
+
+.header-text {
+  padding-top: 70px;
+  padding-bottom: 70px; 
+}
+
+  .header-text__title {
+    font-size: 36px;
+    color: #6e6e6e;
+    font-weight: 500; 
+  }
+
+  .header-text__title_orange {
+    color: #fc7254; 
+  }
+
+  .header-text__colum {
+    text-align: center; 
+  }    
+ 
+.name-first-name {
+  font-weight: 700;
+  font-size: 34px; 
+}
+
+.photo {
+  border: 1px solid #706b73;
+  border-radius: 10%;
+}
+
